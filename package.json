@@ -1,0 +1,22 @@
+{
+  "name": "@taras1313/test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://taras1313@github.com/taras1313/test-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taras1313/test-package/issues"
+  },
+  "homepage": "https://github.com/taras1313/test-package#readme"
+}
